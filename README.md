@@ -12,5 +12,7 @@ Lead (black) +3 caches -1 health (due to radiation)
 Serendibite (dark grey) [rare-ish] +5 caches
 |
 Blazore (dark orange) [EXTREMELY RARE] +100 caches
+# Notice
+Some of the above minerals are not availible in the current version of the game, but will be availible in the next version.
 # Thank you!
 :-)
